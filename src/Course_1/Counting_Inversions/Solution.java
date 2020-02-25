@@ -20,7 +20,7 @@ public class Solution {
 
     public static List<Integer> readData(){
         List<Integer> data = new ArrayList<>();
-        File file = new File("/home/fo2sh/Desktop/Educational/Algorithms/Stanford_Assignments/src/Counting_Inversions/Data.txt");
+        File file = new File("/home/fo2sh/Desktop/Educational/Algorithms/Stanford_Assignments/src/Course_1/Counting_Inversions/Data.txt");
         try{
             BufferedReader br = new BufferedReader(new FileReader(file));
             String st;
