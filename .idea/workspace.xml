@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94f5bda-9dc1-4f3b-b74b-045eff775072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_1/Karger_MinCut/graph.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_1/Karger_MinCut/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_1/Karger_MinCut/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_1/Karger_MinCut/small_graph.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_1/Karger_MinCut/small_graph.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,14 +23,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+            <state relative-caret-position="129">
+              <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
                 <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -47,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/graph.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="35" column="36" selection-end-line="199" selection-end-column="98" />
+            <state relative-caret-position="315">
+              <caret line="15" column="53" selection-end-line="199" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -90,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/Course_1/QuickSort_Count/Data.txt" />
         <option value="$PROJECT_DIR$/src/Course_1/QuickSort_Count/Solution.java" />
         <option value="$PROJECT_DIR$/src/Course_1/Karger_MinCut/graph.txt" />
+        <option value="$PROJECT_DIR$/src/Course_1/Karger_MinCut/Graph.java" />
         <option value="$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt" />
         <option value="$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java" />
       </list>
@@ -107,8 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,19 +130,14 @@
               <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Counting_Inversions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="QuickSort_Count" type="462c0819:PsiDirectoryNode" />
+              <item name="Karger_MinCut" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,6 +157,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course_1.Karger_MinCut.Graph" />
+      <module name="Stanford_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course_1.Karger_MinCut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Stanford_Assignments" />
@@ -231,14 +237,15 @@
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Graph" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +266,7 @@
     <frame x="0" y="25" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27267876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -268,12 +275,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2368728" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990665" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24387398" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3990665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20186698" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20139697" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32788798" />
@@ -298,9 +305,15 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java</url>
-          <line>76</line>
+          <line>92</line>
           <properties />
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -334,13 +347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_1/Large_Numbers_Multiplication/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3507">
-          <caret line="168" column="168" selection-start-line="168" selection-start-column="104" selection-end-line="168" selection-end-column="168" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_1/QuickSort_Count/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -358,20 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/graph.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="35" column="36" selection-end-line="199" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Random.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -379,16 +371,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/Graph.java" />
+    <entry file="file://$PROJECT_DIR$/src/Course_1/Large_Numbers_Multiplication/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3507">
+          <caret line="168" column="168" selection-start-line="168" selection-start-column="104" selection-end-line="168" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="53" selection-end-line="199" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+        <state relative-caret-position="129">
+          <caret line="69" column="86" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
             <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
           </folding>
         </state>
       </provider>
