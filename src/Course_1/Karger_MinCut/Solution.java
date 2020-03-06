@@ -103,10 +103,12 @@ public class Solution {
         int saved = Integer.MAX_VALUE;
         for(int i=0;i<100;i++){
             List<Edge> r = readData();
-            int new_num = run_karger(r,6251+i);
+            int new_num = run_karger(r,651+i);
             if(saved > new_num){
                 saved = new_num;
-                System.out.println(saved);
+                System.out.print(saved);
+                System.out.print(" ");
+                System.out.println(i);
             }
         }
     }
