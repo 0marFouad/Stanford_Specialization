@@ -1,4 +1,4 @@
-package Course_2.Median_Of_Streams;
+package Course_2.StreamingMedians;
 
 public class Median_Maintenance {
 }
