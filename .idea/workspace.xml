@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94f5bda-9dc1-4f3b-b74b-045eff775072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering_Bits/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,25 +19,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="-100">
+              <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/data.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="404">
+              <caret line="126" column="46" lean-forward="true" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#1972#1973#0" expanded="true" />
-                <element signature="e#2040#2041#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -174,6 +177,8 @@
         <option value="$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java" />
         <option value="$PROJECT_DIR$/src/Course_3/Clustering/data_s.txt" />
         <option value="$PROJECT_DIR$/src/Course_3/Clustering/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Course_3/Clustering_Bits/data.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java" />
       </list>
     </option>
   </component>
@@ -215,6 +220,13 @@
               <item name="Course_3" type="462c0819:PsiDirectoryNode" />
               <item name="Clustering" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Course_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Clustering_Bits" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -239,20 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course_2.TwoSum.Driver" />
-      <module name="Stanford_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course_2.TwoSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Stanford_Assignments" />
@@ -279,6 +278,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Course_3.Scheduler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course_3.Clustering_Bits.Solution" />
+      <module name="Stanford_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course_3.Clustering_Bits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Driver (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -382,14 +394,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585336913388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clustering Small">
+      <created>1585453395939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585453395940</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31963715" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32337245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -398,12 +417,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905483" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25670946" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25670946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3418903" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28637952" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28588098" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32905483" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32788798" />
@@ -421,7 +440,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixing Empty Commit" />
     <MESSAGE value="Scheduler &amp; Prim" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scheduler &amp; Prim" />
+    <MESSAGE value="Clustering Small" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clustering Small" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,6 +500,12 @@
           <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -498,14 +524,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Counting_Inversions/Data.txt" />
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/FileReader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Large_Numbers_Multiplication/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/Counting_Inversions/Solution.java" />
     <entry file="file://$PROJECT_DIR$/src/Course_1/Counting_Inversions/Data.txt">
@@ -717,6 +735,25 @@
     <entry file="file://$PROJECT_DIR$/src/Course_3/Scheduler/jobs.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Scheduler/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="54" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java" />
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/data_s.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/edges.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -764,47 +801,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Scheduler/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="54" selection-end-column="15" />
+        <state relative-caret-position="-100">
+          <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java">
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/data_s.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="404">
+          <caret line="126" column="46" lean-forward="true" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#1972#1973#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
           </folding>
         </state>
       </provider>
