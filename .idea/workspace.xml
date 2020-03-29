@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94f5bda-9dc1-4f3b-b74b-045eff775072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course_2/TwoSum/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_2/TwoSum/Hashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_2/TwoSum/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_2/TwoSum/data_small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_3/Clustering/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,70 +20,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="17" lean-forward="true" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/medians.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209979">
-              <caret line="9999" column="4" selection-start-line="9999" selection-start-column="4" selection-end-line="9999" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/Median_Maintenance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="10" column="33" lean-forward="true" selection-end-line="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Hashing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Driver.java">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+            <state relative-caret-position="215">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#1972#1973#0" expanded="true" />
+                <element signature="e#2040#2041#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/edges.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,28 +71,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/data.txt">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/small_data.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20999979">
-              <caret line="999999" column="12" selection-start-line="999999" selection-start-column="12" selection-end-line="999999" selection-end-column="12" />
+            <state relative-caret-position="168">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/data_small.txt">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="1029">
+              <caret line="53" column="117" selection-start-line="53" selection-start-column="117" selection-end-line="53" selection-end-column="117" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/graph.txt">
+        <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="24" />
+            <state relative-caret-position="1071">
+              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,7 +155,6 @@
         <option value="$PROJECT_DIR$/src/Course_2/Median_Of_Streams/medians_small.txt" />
         <option value="$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Median_Maintenance.java" />
         <option value="$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Driver.java" />
-        <option value="$PROJECT_DIR$/src/Course_2/StreamingMedians/Median_Maintenance.java" />
         <option value="$PROJECT_DIR$/src/Course_2/StreamingMedians/medians.txt" />
         <option value="$PROJECT_DIR$/src/Course_2/StreamingMedians/Driver.java" />
         <option value="$PROJECT_DIR$/src/Course_2/2_SUM/Driver.java" />
@@ -179,6 +162,18 @@
         <option value="$PROJECT_DIR$/src/Course_2/TwoSum/Hashing.java" />
         <option value="$PROJECT_DIR$/src/Course_2/TwoSum/data_small.txt" />
         <option value="$PROJECT_DIR$/src/Course_2/TwoSum/Driver.java" />
+        <option value="$PROJECT_DIR$/src/Course_2/StreamingMedians/Median_Maintenance.java" />
+        <option value="$PROJECT_DIR$/src/Course_3/Scheduler/jobs.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Prim/edges.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Prim/small_data.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Prim/Graph.java" />
+        <option value="$PROJECT_DIR$/src/Course_3/Prim/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Course_3/Clustering/data.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Scheduler/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java" />
+        <option value="$PROJECT_DIR$/src/Course_3/Clustering/data_s.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Clustering/Solution.java" />
       </list>
     </option>
   </component>
@@ -194,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,27 +206,19 @@
               <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Course_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_2" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamingMedians" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_2" type="462c0819:PsiDirectoryNode" />
-              <item name="TwoSum" type="462c0819:PsiDirectoryNode" />
+              <item name="Course_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Clustering" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -251,20 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Driver (2)">
-    <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course_2.StreamingMedians.Driver" />
-      <module name="Stanford_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course_2.StreamingMedians.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course_2.TwoSum.Driver" />
       <module name="Stanford_Assignments" />
@@ -278,12 +253,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course_2.Median_Of_Streams.Driver" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Stanford_Assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course_3.Clustering.Solution" />
       <module name="Stanford_Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course_2.Median_Of_Streams.*" />
+          <option name="PATTERN" value="Course_3.Clustering.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course_2.Dijkstra.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course_3.Scheduler.Solution" />
       <module name="Stanford_Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course_2.Dijkstra.*" />
+          <option name="PATTERN" value="Course_3.Scheduler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,11 +287,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Large_Numbers_Multiplication.Solution" />
+      <option name="MAIN_CLASS_NAME" value="Course_3.Prim.Solution" />
       <module name="Stanford_Assignments" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Large_Numbers_Multiplication.*" />
+          <option name="PATTERN" value="Course_3.Prim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Driver (2)" />
-        <item itemvalue="Application.Driver (1)" />
-        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Driver (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -386,13 +368,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584147008378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixing Empty Commit">
+      <created>1584209050067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584209050067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Scheduler &amp; Prim">
+      <created>1585336913388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585336913388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30469584" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31963715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,12 +398,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905483" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5484247" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40723455" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25670946" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3418903" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28704783" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28637952" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32905483" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32788798" />
@@ -423,7 +420,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixing Empty Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing Empty Commit" />
+    <MESSAGE value="Scheduler &amp; Prim" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scheduler &amp; Prim" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -464,6 +462,24 @@
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_3/Scheduler/Solution.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_3/Prim/Solution.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -482,7 +498,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Counting_Inversions/Data.txt" />
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/FileReader.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -616,16 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -637,14 +642,13 @@
     <entry file="file://$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Driver.java" />
     <entry file="file://$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Median_Maintenance.java" />
     <entry file="file://$PROJECT_DIR$/src/Course_2/Median_Of_Streams/medians.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Hashing.java" />
+    <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="105">
+          <caret line="9" column="17" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -656,37 +660,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/graph.txt">
+    <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/small_graph.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="17" lean-forward="true" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/Median_Maintenance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="10" column="33" lean-forward="true" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="20999979">
+          <caret line="999999" column="12" selection-start-line="999999" selection-start-column="12" selection-end-line="999999" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -697,30 +674,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/data.txt">
+    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20999979">
-          <caret line="999999" column="12" selection-start-line="999999" selection-start-column="12" selection-end-line="999999" selection-end-column="12" />
+        <state relative-caret-position="987">
+          <caret line="53" column="34" lean-forward="true" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Hashing.java">
+    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/Median_Maintenance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Scheduler/jobs.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/edges.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/small_data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="53" column="117" selection-start-line="53" selection-start-column="117" selection-end-line="53" selection-end-column="117" />
           <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        <state relative-caret-position="1071">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/small_graph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Scheduler/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="54" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/data_s.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#2040#2041#0" expanded="true" />
           </folding>
         </state>
       </provider>
