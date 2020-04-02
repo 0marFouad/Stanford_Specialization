@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94f5bda-9dc1-4f3b-b74b-045eff775072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data_small.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_3/Huffman_Compression/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_3/Huffman_Compression/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course_3/Huffman_Compression/data_small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_3/Knapsack/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_3/Knapsack/ss.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_3/DP_MaxNonConsecutiveWeights/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_3/DP_MaxNonConsecutiveWeights/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,52 +20,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1011">
-              <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Course_3/Huffman_Compression/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+            <state relative-caret-position="22">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="81" column="73" lean-forward="true" selection-start-line="81" selection-start-column="73" selection-end-line="81" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/ss.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/big.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/small.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
+            <state relative-caret-position="945">
               <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,9 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Large_Numbers_Multiplication/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Counting_Inversions/Data.txt" />
-        <option value="$PROJECT_DIR$/src/Counting_Inversions/Solution.java" />
         <option value="$PROJECT_DIR$/src/Week_1/Counting_Inversions/Solution.java" />
         <option value="$PROJECT_DIR$/src/Course_1/Counting_Inversions/Solution.java" />
         <option value="$PROJECT_DIR$/src/Course_1/QuickSort_Count/Data.txt" />
@@ -182,14 +176,17 @@
         <option value="$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data.txt" />
         <option value="$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data_small.txt" />
         <option value="$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Course_3/Knapsack/small.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Knapsack/big.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Knapsack/ss.txt" />
+        <option value="$PROJECT_DIR$/src/Course_3/Knapsack/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="422" />
-    <option name="y" value="27" />
-    <option name="width" value="907" />
-    <option name="height" value="748" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,20 +217,6 @@
               <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Course_3" type="462c0819:PsiDirectoryNode" />
-              <item name="Clustering" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_3" type="462c0819:PsiDirectoryNode" />
-              <item name="DP_MaxNonConsecutiveWeights" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_3" type="462c0819:PsiDirectoryNode" />
               <item name="Huffman_Compression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -246,7 +229,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Princeton_Assignments" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
@@ -261,20 +244,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Stanford_Assignments" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course_3.Clustering.Solution" />
       <module name="Stanford_Assignments" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Course_3.Clustering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course_3.Knapsack.Solution" />
+      <module name="Stanford_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course_3.Knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +407,7 @@
     <frame x="0" y="25" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3271078" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27427962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -528,6 +517,18 @@
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_3/Knapsack/Solution.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_3/Knapsack/Solution.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -546,28 +547,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Course_1/Counting_Inversions/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Random.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="167" selection-start-line="167" selection-end-line="167" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/Graph.java" />
-    <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/small_graph.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_1/Karger_MinCut/graph.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -767,6 +746,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Huffman_Compression/data_small.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Huffman_Compression/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20508" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data_small.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/edges.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
@@ -784,77 +828,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Prim/edges.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Huffman_Compression/data_small.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_3/Huffman_Compression/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Huffman_Compression/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20508" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/Clustering_Bits/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1011">
-          <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
+        <state relative-caret-position="22">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/data_small.txt">
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/big.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/ss.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="84">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_3/DP_MaxNonConsecutiveWeights/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/small.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_3/Knapsack/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="362">
+          <caret line="81" column="73" lean-forward="true" selection-start-line="81" selection-start-column="73" selection-end-line="81" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
