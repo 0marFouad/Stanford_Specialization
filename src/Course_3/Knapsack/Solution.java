@@ -80,12 +80,14 @@ public class Solution {
             }
         }
         return grid[0][W];
+
     }
 
 
     public static void main(String[] args){
         readData();
         System.out.println(getMaxValue_Itr(10000));
+        System.out.println(getMaxValue_Rec(0,10000, new HashMap<>()));
     }
 
 }
