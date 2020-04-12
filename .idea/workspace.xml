@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94f5bda-9dc1-4f3b-b74b-045eff775072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course_4/TSP_Heuristic/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course_4/Two_SAT/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_4/TSP_Heuristic/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stanford_Assignments/Course_4/TSP_Heuristic/Solution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,87 +19,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/g3.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007517">
-              <caret line="47977" column="10" selection-start-line="47977" selection-start-column="10" selection-end-line="47977" selection-end-column="10" />
+            <state relative-caret-position="229">
+              <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/g2.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/g1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/small.txt">
+        <entry file="file://$PROJECT_DIR$/src/Course_2/Kosaraju/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="352">
+              <caret line="54" column="62" lean-forward="true" selection-start-line="54" selection-start-column="62" selection-end-line="54" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat7.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/TSP/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1586477047687" expanded="true" signature="2525:2645" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/TSP_Heuristic/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-278">
-              <caret line="47" column="63" lean-forward="true" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/TSP_Heuristic/tsp.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Course_4/TSP/tsp.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -122,15 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Course_2/Kosaraju/SCC_small.txt" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
-        <option value="$PROJECT_DIR$/src/Course_2/Kosaraju/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Course_2/Dijkstra/graph.txt" />
-        <option value="$PROJECT_DIR$/src/Course_2/Dijkstra/small_graph.txt" />
-        <option value="$PROJECT_DIR$/src/Course_2/Dijkstra/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Course_2/Dijkstra/Graph.java" />
-        <option value="$PROJECT_DIR$/src/Course_2/Median_Of_Streams/medians.txt" />
-        <option value="$PROJECT_DIR$/src/Course_2/Median_Of_Streams/medians_small.txt" />
         <option value="$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Median_Maintenance.java" />
         <option value="$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Driver.java" />
         <option value="$PROJECT_DIR$/src/Course_2/StreamingMedians/medians.txt" />
@@ -173,6 +117,15 @@
         <option value="$PROJECT_DIR$/src/Course_4/TSP/Solution.java" />
         <option value="$PROJECT_DIR$/src/Course_4/TSP_Heuristic/tsp.txt" />
         <option value="$PROJECT_DIR$/src/Course_4/TSP_Heuristic/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Course_4/2_SAT/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat1.txt" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat2.txt" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat3.txt" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat4.txt" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat5.txt" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat6.txt" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/2sat7.txt" />
+        <option value="$PROJECT_DIR$/src/Course_4/Two_SAT/Solution.java" />
       </list>
     </option>
   </component>
@@ -187,8 +140,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,6 +158,19 @@
               <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Course_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Course_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Kosaraju" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Course_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,14 +178,14 @@
               <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Course_4" type="462c0819:PsiDirectoryNode" />
-              <item name="TSP" type="462c0819:PsiDirectoryNode" />
+              <item name="FloydWarshall" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Stanford_Assignments" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stanford_Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Course_4" type="462c0819:PsiDirectoryNode" />
-              <item name="TSP_Heuristic" type="462c0819:PsiDirectoryNode" />
+              <item name="Two_SAT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,7 +195,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ProblemSolving" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
@@ -245,13 +211,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course_4.TSP_Heuristic.Solution" />
       <module name="Stanford_Assignments" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Course_4.TSP_Heuristic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course_4.Two_SAT.Solution" />
+      <module name="Stanford_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course_4.Two_SAT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,6 +308,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
@@ -381,7 +361,7 @@
     <frame x="0" y="25" width="1920" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16061899" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1638207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -390,8 +370,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905483" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19486581" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.50991833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22403733" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41656944" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -436,12 +416,6 @@
           <line>66</line>
           <properties />
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course_2/Kosaraju/Solution.java</url>
-          <line>103</line>
-          <properties />
-          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Course_2/Dijkstra/Solution.java</url>
@@ -529,9 +503,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Course_4/TSP_Heuristic/Solution.java</url>
-          <line>72</line>
+          <line>71</line>
           <properties />
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_4/Two_SAT/Solution.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course_4/Two_SAT/Solution.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -552,56 +538,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Integer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="203" selection-start-line="203" selection-end-line="203" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="191" selection-start-line="191" selection-end-line="191" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Median_Of_Streams/medians_small.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Driver.java" />
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Median_Of_Streams/Median_Maintenance.java" />
-    <entry file="file://$PROJECT_DIR$/src/Course_2/Median_Of_Streams/medians.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/Hashing.java" />
-    <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="17" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/StreamingMedians/medians.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209979">
-          <caret line="9999" column="4" selection-start-line="9999" selection-start-column="4" selection-end-line="9999" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20999979">
-          <caret line="999999" column="12" selection-start-line="999999" selection-start-column="12" selection-end-line="999999" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_2/TwoSum/data_small.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_2/Dijkstra/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="987">
@@ -823,20 +759,10 @@
     <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/g1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/small.txt">
+    <entry file="file://$PROJECT_DIR$/src/Course_4/TSP_Heuristic/tsp.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -847,9 +773,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/2_SAT/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/small.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/FloydWarshall/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="35" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Course_4/TSP/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
+        <state relative-caret-position="168">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -858,17 +811,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_4/TSP_Heuristic/tsp.txt">
+    <entry file="file://$PROJECT_DIR$/src/Course_4/TSP_Heuristic/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="21">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Course_4/TSP_Heuristic/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat5.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret line="47" column="63" lean-forward="true" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        <state relative-caret-position="19">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_2/Kosaraju/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="54" column="62" lean-forward="true" selection-start-line="54" selection-start-column="62" selection-end-line="54" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/2sat7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Course_4/Two_SAT/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
